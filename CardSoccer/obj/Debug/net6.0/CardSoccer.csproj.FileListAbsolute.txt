@@ -1,0 +1,14 @@
+C:\Users\Kamilly Nobre\source\repos\CardSoccer\CardSoccer\bin\Debug\net6.0\CardSoccer.exe
+C:\Users\Kamilly Nobre\source\repos\CardSoccer\CardSoccer\bin\Debug\net6.0\CardSoccer.deps.json
+C:\Users\Kamilly Nobre\source\repos\CardSoccer\CardSoccer\bin\Debug\net6.0\CardSoccer.runtimeconfig.json
+C:\Users\Kamilly Nobre\source\repos\CardSoccer\CardSoccer\bin\Debug\net6.0\CardSoccer.dll
+C:\Users\Kamilly Nobre\source\repos\CardSoccer\CardSoccer\bin\Debug\net6.0\CardSoccer.pdb
+C:\Users\Kamilly Nobre\source\repos\CardSoccer\CardSoccer\obj\Debug\net6.0\CardSoccer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamilly Nobre\source\repos\CardSoccer\CardSoccer\obj\Debug\net6.0\CardSoccer.AssemblyInfoInputs.cache
+C:\Users\Kamilly Nobre\source\repos\CardSoccer\CardSoccer\obj\Debug\net6.0\CardSoccer.AssemblyInfo.cs
+C:\Users\Kamilly Nobre\source\repos\CardSoccer\CardSoccer\obj\Debug\net6.0\CardSoccer.csproj.CoreCompileInputs.cache
+C:\Users\Kamilly Nobre\source\repos\CardSoccer\CardSoccer\obj\Debug\net6.0\CardSoccer.dll
+C:\Users\Kamilly Nobre\source\repos\CardSoccer\CardSoccer\obj\Debug\net6.0\refint\CardSoccer.dll
+C:\Users\Kamilly Nobre\source\repos\CardSoccer\CardSoccer\obj\Debug\net6.0\CardSoccer.pdb
+C:\Users\Kamilly Nobre\source\repos\CardSoccer\CardSoccer\obj\Debug\net6.0\CardSoccer.genruntimeconfig.cache
+C:\Users\Kamilly Nobre\source\repos\CardSoccer\CardSoccer\obj\Debug\net6.0\ref\CardSoccer.dll
